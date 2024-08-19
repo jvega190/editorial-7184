@@ -14,7 +14,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2024-08-19T22:22:46.958Z</lastModifiedDate>
-  <lastModifiedDate_dt>2024-08-19T22:23:56.481Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2024-08-19T22:24:05.471Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
   <hero_title_html>&lt;h1&gt;Hi, I&amp;rsquo;m Editorial&lt;/h1&gt;
@@ -113,41 +113,6 @@
   </files_o>
   <repgroup_o item-list="true">
     <item>
-      <title_s>january</title_s>
-      <subfeatures_o item-list="true">
-        <item>
-          <key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
-          <value>Closed captioning</value>
-          <include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
-          <disableFlattening>false</disableFlattening>
-        </item>
-        <item inline="true">
-          <key>c9203424-5a01-4bb1-93f5-dae988af7d0f</key>
-          <value>New Feature</value>
-          <component id="c9203424-5a01-4bb1-93f5-dae988af7d0f">
-            <content-type>/component/feature</content-type>
-            <display-template>/templates/web/components/feature.ftl</display-template>
-            <internal-name><![CDATA[New Feature]]></internal-name>
-            <file-name>c9203424-5a01-4bb1-93f5-dae988af7d0f.xml</file-name>
-            <merge-strategy>inherit-levels</merge-strategy>
-            <createdDate_dt>2024-08-19T22:15:15.389Z</createdDate_dt>
-            <lastModifiedDate_dt>2024-08-19T22:15:15.389Z</lastModifiedDate_dt>
-            <objectId>c9203424-5a01-4bb1-93f5-dae988af7d0f</objectId>
-            <disabled>false</disabled>
-            <icon_s><![CDATA[fa-closed-captioning far]]></icon_s>
-            <title_t><![CDATA[Feature Title]]></title_t>
-            <body_html><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></body_html>
-          </component>
-        </item>
-        <item>
-          <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
-          <value>Smile</value>
-          <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
-          <disableFlattening>false</disableFlattening>
-        </item>
-      </subfeatures_o>
-    </item>
-    <item>
       <title_s>february</title_s>
       <subfeatures_o item-list="true">
         <item inline="true">
@@ -195,6 +160,41 @@
             <lastModifiedDate>2024-08-19T22:23:03.912Z</lastModifiedDate>
             <lastModifiedDate_dt>2024-08-19T22:23:56.481Z</lastModifiedDate_dt>
           </component>
+        </item>
+      </subfeatures_o>
+    </item>
+    <item>
+      <title_s>january</title_s>
+      <subfeatures_o item-list="true">
+        <item>
+          <key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
+          <value>Closed captioning</value>
+          <include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
+          <disableFlattening>false</disableFlattening>
+        </item>
+        <item inline="true">
+          <key>c9203424-5a01-4bb1-93f5-dae988af7d0f</key>
+          <value>New Feature</value>
+          <component id="c9203424-5a01-4bb1-93f5-dae988af7d0f">
+            <content-type>/component/feature</content-type>
+            <display-template>/templates/web/components/feature.ftl</display-template>
+            <internal-name><![CDATA[New Feature]]></internal-name>
+            <file-name>c9203424-5a01-4bb1-93f5-dae988af7d0f.xml</file-name>
+            <merge-strategy>inherit-levels</merge-strategy>
+            <createdDate_dt>2024-08-19T22:15:15.389Z</createdDate_dt>
+            <lastModifiedDate_dt>2024-08-19T22:15:15.389Z</lastModifiedDate_dt>
+            <objectId>c9203424-5a01-4bb1-93f5-dae988af7d0f</objectId>
+            <disabled>false</disabled>
+            <icon_s><![CDATA[fa-closed-captioning far]]></icon_s>
+            <title_t><![CDATA[Feature Title]]></title_t>
+            <body_html><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></body_html>
+          </component>
+        </item>
+        <item>
+          <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
+          <value>Smile</value>
+          <include>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</include>
+          <disableFlattening>false</disableFlattening>
         </item>
       </subfeatures_o>
     </item>
