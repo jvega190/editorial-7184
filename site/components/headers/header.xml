@@ -13,9 +13,7 @@
   ~
   ~ You should have received a copy of the GNU General Public License
   ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  -->
-
-<component>
+  --><component>
   <content-type>/component/header</content-type>
   <display-template>/templates/web/components/header.ftl</display-template>
   <no-template-required/>
@@ -46,13 +44,13 @@
         <showItemsInline_b>true</showItemsInline_b>
         <accounts_o item-list="true">
           <item>
-            <network_s>facebook</network_s>
+            <network_s>twitter</network_s>
             <title_s/>
             <url_s>#</url_s>
-            <icon_s />
+            <icon_s/>
           </item>
           <item>
-            <network_s>twitter</network_s>
+            <network_s>facebook</network_s>
             <title_s/>
             <url_s>#</url_s>
             <icon_s/>
@@ -67,14 +65,14 @@
         <createdDate>2022-02-22T19:04:47.646Z</createdDate>
         <createdDate_dt>2022-02-22T19:04:47.646Z</createdDate_dt>
         <lastModifiedDate>2022-03-14T22:41:09.371Z</lastModifiedDate>
-        <lastModifiedDate_dt>2022-03-14T22:41:09.371Z</lastModifiedDate_dt>
+        <lastModifiedDate_dt>2024-08-19T18:07:23.445Z</lastModifiedDate_dt>
       </component>
     </item>
   </socialMediaWidget_o>
   <createdDate>2017-02-3T23:27:50.000Z</createdDate>
   <createdDate_dt>2017-02-3T23:27:50.000Z</createdDate_dt>
   <lastModifiedDate>2019-12-20T13:47:32.168Z</lastModifiedDate>
-  <lastModifiedDate_dt>2020-02-05T18:03:58.518Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2024-08-19T18:07:23.445Z</lastModifiedDate_dt>
   <logo_s>/static-assets/images/1-gear.png</logo_s>
   <logo_text_t/>
   <disabled>false</disabled>
