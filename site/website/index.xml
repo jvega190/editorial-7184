@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2024-08-19T21:55:42.742Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-08-19T21:55:42.742Z</lastModifiedDate_dt>
+	<lastModifiedDate>2024-08-19T22:09:48.278Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-08-19T22:09:48.278Z</lastModifiedDate_dt>
 	<title_t>Editorial</title_t>
 	<hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
 	<hero_title_html>&lt;h1&gt;Hi, I&amp;rsquo;m Editorial&lt;/h1&gt;
@@ -105,48 +105,10 @@
 	<disableFlattening>false</disableFlattening>
 	</item></subfeatures_o>
 	</item>	<item>	<title_s>february</title_s>
-	<subfeatures_o item-list="true">	<item inline="true">	<key>36f4241e-62f6-15c3-27e8-894ba88a6b09</key>
-	<value>hello</value>
-<component id="36f4241e-62f6-15c3-27e8-894ba88a6b09">
-	<content-type>/component/feature</content-type>
-	<display-template>/templates/web/components/feature.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>36f4</objectGroupId>
-	<objectId>36f4241e-62f6-15c3-27e8-894ba88a6b09</objectId>
-	<file-name>36f4241e-62f6-15c3-27e8-894ba88a6b09.xml</file-name>
-	<folder-name/>
-	<internal-name>hello</internal-name>
-	<title_t>Hello</title_t>
-	<disabled>false</disabled>
-	<icon_s>fa-closed-captioning far</icon_s>
-	<body_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</body_html>
-	<createdDate>2024-08-19T21:56:21.115Z</createdDate>
-	<createdDate_dt>2024-08-19T21:56:21.115Z</createdDate_dt>
-	<lastModifiedDate>2024-08-19T21:56:21.115Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-08-19T21:56:21.115Z</lastModifiedDate_dt>
-</component>
-	</item>	<item inline="true">	<key>90bd7ac5-9ae8-8147-a96a-d1655f6ee63b</key>
-	<value>bye</value>
-<component id="90bd7ac5-9ae8-8147-a96a-d1655f6ee63b">
-	<content-type>/component/feature</content-type>
-	<display-template>/templates/web/components/feature.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>90bd</objectGroupId>
-	<objectId>90bd7ac5-9ae8-8147-a96a-d1655f6ee63b</objectId>
-	<file-name>90bd7ac5-9ae8-8147-a96a-d1655f6ee63b.xml</file-name>
-	<folder-name/>
-	<internal-name>bye</internal-name>
-	<title_t>Bye</title_t>
-	<disabled>false</disabled>
-	<icon_s>fa-closed-captioning far</icon_s>
-	<body_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</body_html>
-	<createdDate>2024-08-19T21:56:33.901Z</createdDate>
-	<createdDate_dt>2024-08-19T21:56:33.901Z</createdDate_dt>
-	<lastModifiedDate>2024-08-19T21:56:33.901Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-08-19T21:56:33.901Z</lastModifiedDate_dt>
-</component>
+	<subfeatures_o item-list="true">	<item>	<key>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</key>
+	<value>Closed captioning</value>
+	<include>/site/components/features/72ef047f-02b7-89e2-bbd5-4763ac7dbca8.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></subfeatures_o>
 	</item></repgroup_o>
 </page>
