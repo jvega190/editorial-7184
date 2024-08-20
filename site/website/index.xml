@@ -14,7 +14,7 @@
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2024-08-19T22:22:46.958Z</lastModifiedDate>
-  <lastModifiedDate_dt>2024-08-20T15:55:20.582Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2024-08-20T16:07:34.609Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
   <hero_title_html>&lt;h1&gt;Hi, I&amp;rsquo;m Editorial&lt;/h1&gt;
@@ -97,18 +97,18 @@
   <header_o item-list="true"/>
   <files_o item-list="true">
     <item datasource="files">
-      <key>/static-assets/files/maxresdefault.jpg</key>
-      <value>/static-assets/files/maxresdefault.jpg</value>
-      <fileType_smv>jpg</fileType_smv>
-      <fileSize_smv>63975</fileSize_smv>
-      <include>/static-assets/files/maxresdefault.jpg</include>
-    </item>
-    <item datasource="files">
       <key>/static-assets/files/crop-dialog.js</key>
       <value>/static-assets/files/crop-dialog.js</value>
       <fileType_smv>js</fileType_smv>
       <fileSize_smv>22852</fileSize_smv>
       <include>/static-assets/files/crop-dialog.js</include>
+    </item>
+    <item datasource="files">
+      <key>/static-assets/files/maxresdefault.jpg</key>
+      <value>/static-assets/files/maxresdefault.jpg</value>
+      <fileType_smv>jpg</fileType_smv>
+      <fileSize_smv>63975</fileSize_smv>
+      <include>/static-assets/files/maxresdefault.jpg</include>
     </item>
   </files_o>
   <repgroup_o item-list="true">
