@@ -56,6 +56,36 @@
       </section>
       <!-- /Section: Features -->
 
+      <section>
+        <h2>node selector of files</h2>
+        <@crafter.renderCollection
+          $field="files_o";
+          item, index
+        >
+          ${item.value}
+        </@crafter.renderCollection>
+      </section>
+
+<#--      <section>-->
+<#--        <h2>rep-group with inner node-selector</h2>-->
+<#--        <@crafter.renderRepeatGroup-->
+<#--          $field="repgroup_o";-->
+<#--          item, index-->
+<#--        >-->
+<#--          <div style="padding: 20px;">-->
+<#--            <@crafter.h3 $field="repgroup_o.title_s" $index=index>${item.title_s}</@crafter.h3>-->
+<#--            <@crafter.renderComponentCollection-->
+<#--              $field="subfeatures_o"-->
+<#--              $fieldCarryover="repgroup_o"-->
+<#--              $indexCarryover=index-->
+<#--              $collection=item.subfeatures_o-->
+<#--              $containerAttributes={ "class": "features" }-->
+<#--              $itemAttributes={ "class": "feature-container" }-->
+<#--            />-->
+<#--          </div>-->
+<#--        </@crafter.renderRepeatGroup>-->
+<#--      </section>-->
+
       <!-- Section: Articles -->
       <section>
         <header class="major">
